@@ -1,0 +1,27 @@
+----------------
+Lớp và đối tượng
+---------------- 
+- lớp được ví như bản thiết kế của đối tượng, bao gồm thuộc tính và hành vi của đối tượng .
+- đối tượng là những thực thể có thật, được 'phác thảo bằng lớp', đối tượng có những thuộc tính và hành vi, ví dụ: đối tượng con người có thuộc tính là tên tuổi, có hành vi là ăn ngủ, đi lại.
+
+-------------------------------------------
+các tính chất của lập trình hướng đối tượng
+------------------------------------------- 
+- tính đóng gói:     
+	+ là việc sử dụng các access modifier (private, public,..) để ẩn đi những cơ chế của đối tượng, che giấu sự phức tạp của đối tượng và cho phép triển khai thực tế của đối tượng, do đó ta không cần hiểu những cách thức thực hiện của đối tượng.
+- tính thừa kế 
+	+ kế thừa là cơ chế cho phép một lớp có thể kế thừa một số hoặc tất cả các thuộc tính và phương thức của lớp khác, lớp kế thừa có thể định nghĩa hay triển khai lại phương thức của lớp được kế thừa thông qua cơ chế ghi đè.
+	+ lợi ích của kế thừa:
+				1, tính tương thích dữ liệu, tính kế thừa cho phép ta có được mối quan hệ IS-A, tức một đối tượng của lớp con có thế gọi là 1 đối tượng của lớp cha, ví dụ: lớp nhân viên kế thừa từ lớp con người => nhân viên là con người (upcasting), nhưng không chắc con người nào cũng là nhân viên.
+				2, giúp ta có thể mở rộng cũng như sửa chữa trương trình sau này.
+- tính đa hình 
+	+ là cơ chế thực hiện một hành động theo nhiều cách khác nhau
+	+ có hai kiểu đa hình: 
+				1, Overloading method (nạp chồng): cho phép ta tạo ra các phương thức có tên giống nhau trong lớp nhưng khác nhau cách hoạt động, ví dụ như phương thức add(int x, int y), add(double x, double y) thực hiện các hành động cộng của các kiểu số khác nhau
+				2, Overriding (Ghi đè): tức khi phương thức của lớp cha và lớp con giông nhau cả về tên và tham số, khi này phương thức của lớp con được đánh giấu là ghi đè, tức khi đối tượng gọi về hàm đó sẽ gọi về hàm ghi đè (của lớp con).
+tính trừu tượng
+	+ là khái niệm lập trình hướng đối tượng ẩn đi những thông tin không cần thiết, chỉ hiển thị những thông tin thiết yếu.
+	+ có thể sử dụng tính đa hình thông qua 2 cơ chế:
+		1, abstract classes được xem như một lớp không hoàn chỉnh (vẫn có hàm dựng, thuộc tính, các phương thức hoàn chỉnh khác), do có 1 hoặc nhiều phương thức trừu tượng(chỉ có phần đầu, phần thân do các lớp con triển khai), chính vì vậy nó không thể tạo được đối tượng của một lớp trừu tượng. Muốn sử dụng lớp trừu tượng phải thông qua những lớp con kế thừa và triển khai (ghi đè) lại phương thức trừu tượng đó.
+		2, interface được ví như bản hợp đồng cho những lớp implement lại nó, trong interface tất cả các phương thức trong nó đều là trừu tượng (public abstract) và khi sử dụng interface thì ta phải ghi đè và triển khai lại các phương thức đó
+		

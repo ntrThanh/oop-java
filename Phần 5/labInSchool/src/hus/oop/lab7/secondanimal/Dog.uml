@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>hus.oop.lab7.secondanimal.Dog</OriginalElement>
+  <nodes>
+    <node x="-73.80822733706941" y="233.07117835776296">hus.oop.lab7.secondanimal.Dog</node>
+    <node x="-41.17531250971376" y="65.25989817252733">hus.oop.lab7.secondanimal.Animal</node>
+    <node x="211.57528797087514" y="-16.573379236939523">hus.oop.lab7.secondanimal.TestMain</node>
+    <node x="172.67227000577668" y="433.88441087731366">hus.oop.lab7.secondanimal.BigDog</node>
+    <node x="188.65793863861683" y="231.6236479145125">hus.oop.lab7.secondanimal.Cat</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="hus.oop.lab7.secondanimal.Dog" target="hus.oop.lab7.secondanimal.Animal" relationship="GENERALIZATION">
+      <point x="2.2733706941124865E-4" y="-68.00017835776296" />
+      <point x="24.692" y="202.0" />
+      <point x="43.325" y="202.0" />
+      <point x="3.125097137655075E-4" y="53.00010182747266" />
+    </edge>
+    <edge source="hus.oop.lab7.secondanimal.BigDog" target="hus.oop.lab7.secondanimal.Dog" relationship="GENERALIZATION">
+      <point x="-109.0" y="0.0" />
+      <point x="24.69177266293059" y="501.88441087731366" />
+      <point x="0.0" y="68.0" />
+    </edge>
+    <edge source="hus.oop.lab7.secondanimal.Cat" target="hus.oop.lab7.secondanimal.Animal" relationship="GENERALIZATION">
+      <point x="6.136138318879603E-5" y="-52.99964791451251" />
+      <point x="273.158" y="202.0" />
+      <point x="43.325" y="202.0" />
+      <point x="3.125097137655075E-4" y="53.00010182747266" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="1.044481054365733" showDependencies="false" x="321.06427444794974" y="288.04526813880125" />
+  <SelectedNodes>
+    <node>hus.oop.lab7.secondanimal.BigDog</node>
+    <node>hus.oop.lab7.secondanimal.Cat</node>
+    <node>hus.oop.lab7.secondanimal.Animal</node>
+    <node>hus.oop.lab7.secondanimal.Dog</node>
+    <node>hus.oop.lab7.secondanimal.TestMain</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

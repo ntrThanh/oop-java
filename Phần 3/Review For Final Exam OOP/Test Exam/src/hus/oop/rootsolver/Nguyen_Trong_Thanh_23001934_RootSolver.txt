@@ -1,0 +1,7 @@
+"C:\Users\Trong Thanh\.jdks\openjdk-21.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.5\lib\idea_rt.jar=61379:C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.5\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "D:\Exam\Final Exam\out\production\Final Exam" hus.oop.rootsolver.RootFindingTestDrive
+sin(x).x - 3 = 0
+using Bisection Solver x = 12.80322265625
+using Secant Solver x = 12.802913565391112
+using Newton Raphson Solver x = 12.80296118760977
+
+Process finished with exit code 0

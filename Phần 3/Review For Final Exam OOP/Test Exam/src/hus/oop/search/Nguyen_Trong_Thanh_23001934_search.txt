@@ -1,0 +1,18 @@
+"C:\Users\Trong Thanh\.jdks\openjdk-21.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.5\lib\idea_rt.jar=61307:C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.5\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "D:\Exam\Final Exam\out\production\Final Exam" hus.oop.search.TestBinarySearch
+Using Bubble Sort Algorithm:
+Before: [22.0 21.0 25.0 25.0 21.0 22.0]
+After: [21.0 21.0 22.0 22.0 25.0 25.0]
+Binary search giá trị x = 22.0 is 2
+
+Using Selection Sort Algorithm:
+Before: [22.0 23.0 30.0 21.0 25.0 29.0]
+After: [21.0 22.0 23.0 25.0 29.0 30.0]
+Binary search giá trị x = 22.0 is 1
+
+Using Insertion Sort Algorithm:
+Before: [26.0 21.0 25.0 22.0 23.0 25.0]
+After: [21.0 22.0 23.0 25.0 25.0 26.0]
+Binary search giá trị x = 22.0 is 1
+
+
+Process finished with exit code 0

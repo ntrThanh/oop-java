@@ -1,0 +1,78 @@
+"C:\Users\Trong Thanh\.jdks\openjdk-21.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.5\lib\idea_rt.jar=54078:C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.5\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath D:\OOP\exam\out\production\exam decorator.BreadStore
+Thick crust bread, with tomato sauce, Cheese
+Thick crust bread, with tomato sauce, Cheese
+Thick crust bread, with tomato sauce, Cheese
+Thick crust bread, with tomato sauce, Cheese
+Thick crust bread, with tomato sauce, Cheese
+Thick crust bread, with tomato sauce, Olives
+Thick crust bread, with tomato sauce, Olives
+Thick crust bread, with tomato sauce, Olives
+Thick crust bread, with tomato sauce, Olives
+Thick crust bread, with tomato sauce, Olives
+Thick crust bread, with tomato sauce, Cheese, Olives
+Thin crust bread, with tomato sauce, Cheese
+Thin crust bread, with tomato sauce, Cheese
+Thin crust bread, with tomato sauce, Cheese
+Thin crust bread, with tomato sauce, Cheese
+Thin crust bread, with tomato sauce, Cheese
+Thin crust bread, with tomato sauce, Olives
+Thin crust bread, with tomato sauce, Olives
+Thin crust bread, with tomato sauce, Olives
+Thin crust bread, with tomato sauce, Olives
+Thin crust bread, with tomato sauce, Olives
+Thin crust bread, with tomato sauce, Cheese, Olives
+
+sell
+After sell
+Thick crust bread, with tomato sauce, Cheese
+Thick crust bread, with tomato sauce, Cheese
+Thick crust bread, with tomato sauce, Cheese
+Thick crust bread, with tomato sauce, Cheese
+Thick crust bread, with tomato sauce, Cheese
+Thick crust bread, with tomato sauce, Olives
+Thick crust bread, with tomato sauce, Cheese, Olives
+Thin crust bread, with tomato sauce, Cheese
+Thin crust bread, with tomato sauce, Cheese
+Thin crust bread, with tomato sauce, Cheese
+Thin crust bread, with tomato sauce, Cheese
+Thin crust bread, with tomato sauce, Cheese
+Thin crust bread, with tomato sauce, Olives
+Thin crust bread, with tomato sauce, Olives
+Thin crust bread, with tomato sauce, Olives
+Thin crust bread, with tomato sauce, Olives
+Thin crust bread, with tomato sauce, Olives
+Thin crust bread, with tomato sauce, Cheese, Olives
+
+sort
+Thin crust bread, with tomato sauce, Cheese
+Thin crust bread, with tomato sauce, Cheese
+Thin crust bread, with tomato sauce, Cheese
+Thin crust bread, with tomato sauce, Cheese
+Thin crust bread, with tomato sauce, Cheese
+Thin crust bread, with tomato sauce, Olives
+Thin crust bread, with tomato sauce, Olives
+Thin crust bread, with tomato sauce, Olives
+Thin crust bread, with tomato sauce, Olives
+Thin crust bread, with tomato sauce, Olives
+Thin crust bread, with tomato sauce, Cheese, Olives
+Thick crust bread, with tomato sauce, Cheese
+Thick crust bread, with tomato sauce, Cheese
+Thick crust bread, with tomato sauce, Cheese
+Thick crust bread, with tomato sauce, Cheese
+Thick crust bread, with tomato sauce, Cheese
+Thick crust bread, with tomato sauce, Olives
+Thick crust bread, with tomato sauce, Cheese, Olives
+
+filter
+Thick crust bread, with tomato sauce, Cheese, Olives
+Thick crust bread, with tomato sauce, Olives
+Thick crust bread, with tomato sauce, Cheese
+Thick crust bread, with tomato sauce, Cheese
+Thick crust bread, with tomato sauce, Cheese
+Thick crust bread, with tomato sauce, Cheese
+Thick crust bread, with tomato sauce, Cheese
+Thin crust bread, with tomato sauce, Cheese, Olives
+Thin crust bread, with tomato sauce, Olives
+Thin crust bread, with tomato sauce, Olives
+
+Process finished with exit code 0
